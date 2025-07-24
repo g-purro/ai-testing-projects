@@ -9,6 +9,6 @@ My Mini-Projects using React!
 - React Icons
 - React Query
 
-[Live Demo](https://gdp-dev-miniprojects.netlify.app/)
+[Live Demo](https://30-projects-in-a-week.netlify.app/)
 
 These mini-projects are... to be said...
