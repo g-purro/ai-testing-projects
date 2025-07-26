@@ -9,6 +9,7 @@ import { PokedexPage } from "./features/Pokedex/pages/PokedexPage";
 import { CalculatorPage } from "./features/Calculator/pages/CalculatorPage";
 import { TicTacToePage } from "./features/TicTacToe/pages/TicTacToePage";
 import ToDoListPage from "./features/ToDoList/pages/ToDoListPage";
+import { WeatherPage } from "./features/Weather/pages/WeatherPage";
 
 export const router = createHashRouter(
   [
@@ -51,6 +52,10 @@ export const router = createHashRouter(
     {
       path: "/to-do-list",
       element: <ToDoListPage />,
+    },
+    {
+      path: "/weather",
+      element: <WeatherPage />,
     },
     {
       path: "*",

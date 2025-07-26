@@ -35,6 +35,9 @@ export const HomePage = () => {
           <li>
             <Link to="/form-input-wave">Form Input Wave</Link>
           </li>
+          <li>
+            <Link to="/weather">Weather App</Link>
+          </li>
         </ul>
       </div>
       <div className="mt-16">
