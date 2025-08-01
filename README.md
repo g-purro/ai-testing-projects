@@ -9,6 +9,5 @@ My Mini-Projects using React!
 - React Icons
 - React Query
 
-[Live Demo](https://30-projects-in-a-week.netlify.app/)
+[Live Demo](https://ai-testing-projects-production.up.railway.app/)
 
-These mini-projects are... to be said...
