@@ -38,6 +38,9 @@ export const HomePage = () => {
           <li>
             <Link to="/weather">Weather App</Link>
           </li>
+          <li>
+            <Link to="/expense-tracker">Expense Tracker</Link>
+          </li>
         </ul>
       </div>
       <div className="mt-16">
